@@ -1,2 +1,2 @@
 # IMDb-EDA
-Exploratory Data Analysis (Movies Dataset)
+#### Exploratory Data Analysis (Movies Dataset)
